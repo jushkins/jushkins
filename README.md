@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jushkin Saparmatov | @jushkins
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python and SQL
+- 👀 I’m interested in Python, JavaScript
+- 🌱 I’m currently learning JavaScript and SQL
 - 📫 How to reach me: jushkin.saparmatov@gmail.com
 
 <!---
